@@ -1,5 +1,6 @@
 
 # EX 4B Frog Jump - Dynamic Programming.
+## DATE: 13.10.26
 
 ## AIM:
 To write a Java program to for given constraints.
@@ -28,6 +29,9 @@ A single integer – number of distinct ways to reach step n.
 
 ## Program:
 ```
+DEVELOPED BY: PRIYADHARSHINI S.S
+REGISTER NO: 212223040156
+
 import java.util.Scanner;
 
 public class FrogJump {
