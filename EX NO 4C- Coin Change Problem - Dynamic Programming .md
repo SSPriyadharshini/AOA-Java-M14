@@ -1,5 +1,6 @@
 
 # EX 4C Coin Change Problem - Dynamic Programming.
+## DATE : 13.9.26
 
 ## AIM:
 To write a Java program to for given constraints.
@@ -24,6 +25,8 @@ If coin <= i, update dp[i] = min(dp[i], dp[i - coin] + 1).
 
 ## Program:
 ```
+DEVELOPED BY: PRIYADHARSHINI S.S
+REGISTER NO: 212223040156
 
 import java.util.*;
 
